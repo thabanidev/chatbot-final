@@ -1,4 +1,0 @@
-Flask
-gensim
-nltk
-scikit-learn
